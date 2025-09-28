@@ -1,0 +1,23 @@
+pihole --regex (\.|^)adtng$
+pihole --regex (\.|^)ak-is2$	
+pihole --regex (\.|^)contentabc$	
+pihole --regex (\.|^)disneyadvertising\.com$	
+pihole --regex (\.|^)pmc1201$	
+pihole --regex (\.|^)psmimg$	
+pihole --regex (\.|^)rncdn7$	
+pihole --regex (\.|^)trafficjunky$	
+pihole --regex (\.|^)weebly$	
+pihole --regex (\.|^)nwsvr1$
+
+pihole allow 87a6b28bc7823e67a5bb2a0a6728c702afcae78d.cws.conviva.com	
+pihole allow ceres.iad-03.braze.com	
+pihole allow cf-timedtext.aux.pv-cdn.net	
+pihole allow click.mail.salesforce.com	
+pihole allow saa.paramountplus.com	
+pihole allow saa.cbsi.com	
+pihole allow instagram.c10r.instagram.com	
+pihole allow imasdk.googleapis.com	
+pihole allow crakrevenue.rtb-as-useast.ak-is2.net	
+pihole allow settings-win.data.microsoft.com	
+pihole allow sls.update.microsoft.com	
+pihole allow tags.tiqcdn.com	
