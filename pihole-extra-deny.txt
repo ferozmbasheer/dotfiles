@@ -1,0 +1,13 @@
+beacons.digital.disneyadvertising.com	
+cbsinteractive.hb.omtrdc.net	
+cf-adsrv.rtbsuperhub.com	
+cf-trickplay.aux.pv-cdn.net	
+ht-cdn2.adtng.com.sds.rncdn7.com	
+ht-cdn.trafficjunky.net.sds.rncdn7.com	
+enduser.adsrvr.org	
+sdks.automizely-analytics.com	
+static.trafficjunky.com	
+tpsc-video.doubleverify.com	
+vod-akc-na-west-2.media.dssott.com	
+y9y7w5v9.stackpathcdn.com	
+crakrevenue.rtb-as-useast.ak-is2.net
